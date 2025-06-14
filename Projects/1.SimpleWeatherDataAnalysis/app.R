@@ -1,4 +1,4 @@
-# weather_analysis.R
+# app.R
 
 # This R script performs a simple weather data analysis.
 # It generates a sample CSV dataset, then creates line charts, histograms,
